@@ -1,0 +1,52 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E712" />
+          <option value="E722" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="help" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="bot.funcs" />
+          <option value="funcs" />
+          <option value="tkinter.Button.__add__" />
+          <option value="tuple.destroy" />
+          <option value="tkinter.messagebox.overrideredirect" />
+          <option value="proc.stdout" />
+          <option value="nmap.PortScanner" />
+          <option value="fake_useragent" />
+          <option value="float.left" />
+          <option value="keyboard.Key" />
+          <option value="time.after" />
+          <option value="pyautogui.toipleClick" />
+          <option value="tkinter.Tk.pack" />
+          <option value="tkinter.Tk.*" />
+          <option value="tkinter.Button.left" />
+          <option value="tkinter.Button.middle" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
